@@ -1,9 +1,6 @@
 'use strict';
-
-let fs = require('fs');
-let fname = process.argv[2];
-let result = '';
-
+const fs = require('fs');
+const fname = process.argv[2];
 fs.readFile(fname, 'utf8', function (err, contents) {
     if (err) { throw err; }
     else {
@@ -16,6 +13,7 @@ fs.readFile(fname, 'utf8', function (err, contents) {
     }
 })
 function checker(json) {
+    let result = '';
     if (typeof (json.flag) !== 'boolean') { result = result + '\"flag\":\"' + json.flag + '\"\n'; }
     if (!Array.isArray(json.myPromises)) { result = result + '\"myPromises\":\"' + json.myPromises + '\"\n'; }
     if (typeof (json.element) !== 'object' || Array.isArray(json.element)) {

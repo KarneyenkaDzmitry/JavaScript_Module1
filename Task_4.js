@@ -1,7 +1,7 @@
 'use strict'
 const request = require('request');
 const yargs = require('yargs').argv;
-let options = {
+const options = {
     url: 'http://services.groupkt.com/country/get/all',
     method: 'GET',
     json: true

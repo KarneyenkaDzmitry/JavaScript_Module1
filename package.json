@@ -1,0 +1,28 @@
+{
+  "name": "JavaScript_Module1",
+  "version": "1.0.0",
+  "description": "My first experience with Node.js",
+  "main": "Task_1.1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarneyenkaDzmitry/JavaScript_Module1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarneyenkaDzmitry/JavaScript_Module1/issues"
+  },
+  "homepage": "https://github.com/KarneyenkaDzmitry/JavaScript_Module1#readme",
+  "dependencies": {
+    "json2xls": "^0.1.2",
+    "path": "^0.12.7",
+    "request": "^2.87.0",
+    "request-promise-native": "^1.0.5",
+    "xlsx": "^0.13.0",
+    "yargs": "^11.0.0"
+  }
+}
