@@ -59,5 +59,16 @@ Command [list] shows all notes on console.<br>
 
 Command [clear] delete all notes. The list becomes empty.<br>
 
+### update a note by title
 
+#### $ node index.js update --title 'Title of a note' --body 'Body of a note'
+
+Command [update] body of existed note with title [Title of a note].<br>
+If there isn't a note with title [Title of a note] the programm shows a message on console.<br>
+
+### sort list of notes
+
+#### $ node index.js sort
+
+Command [clear] delete all notes. The list becomes empty.<br>
 
