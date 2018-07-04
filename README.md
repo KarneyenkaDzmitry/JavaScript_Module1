@@ -18,13 +18,21 @@ The application needs to have the following dependencies:
 #### $ npm install
 
 Before start the program is supposed to run the command [npm install].<br> 
-It download needed modules and preparing the programm for start.
+It downloads needed modules and prepars the programm for start.<br>
 There is a list of modules and their versions:
 * yargs      version  ^11.0.0
 * xlsx       version   0.13.1
 * excel4node version  ^1.3.6
 
-### Run
+## Workflow
+
+### add new note
+
+#### $ node add --title 'Title of note' --body 'Body of note'
+
+Command [add] creates new note with title [Title of note] and a body [Body of note].<br>
+Also the programm add current(created) date and time as a property date to each note.
+
 
 
 
