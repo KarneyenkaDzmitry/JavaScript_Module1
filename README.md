@@ -24,7 +24,7 @@ There is a list of modules and their versions:
 * excel4node version  ^1.3.6
 
 ## Workflow
-* [remove a note](./remove a note)
+
 ### add a new note
 
 #### $ node index.js add --title 'Title of note' --body 'Body of note'
@@ -67,7 +67,11 @@ If there isn't a note with title [Title of a note] the programm shows a message 
 
 ### sort list of notes
 
-#### $ node index.js sort
+#### $ node index.js sort --kind 'note length' --options 'ascending'
 
-Command [clear] delete all notes. The list becomes empty.<br>
+Command [sort] allowes to sort all notes by `kind of sort` with ascending or descending direction of the sort.<br>
+##### kind (requirement)
+- note lenth, title length, title alphabet, date.<br>
+##### optiond (can omit because default is [descending])
+- ascending, descending.
 
