@@ -23,7 +23,7 @@ There is a list of modules and their versions:
 * xlsx       version   0.13.1
 * excel4node version  ^1.3.6
 
-## Workflow
+## Usage
 
 ### add a new note
 
@@ -72,6 +72,12 @@ If there isn't a note with title [Title of a note] the programm shows a message 
 Command [sort] allowes to sort all notes by `kind of sort` with ascending or descending direction of the sort.<br>
 ##### kind (requirement)
 - note lenth, title length, title alphabet, date.<br>
-##### optiond (can omit because default is [descending])
+##### options (can omit because default is [descending])
 - ascending, descending.
+
+## Advanced usage
+
+### write all notes to excel file 
+
+### read notes from excel file and add them into todo_app's list
 
