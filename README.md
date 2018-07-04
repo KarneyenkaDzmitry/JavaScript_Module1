@@ -26,7 +26,7 @@ There is a list of modules and their versions:
 ## Usage
 
 #### Available commands:
-- [Help](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#help-message-with-hints-about-usage-the-programm)
+- [Help](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/tree/master/#help-message-with-hints-about-usage-the-programm)
 - [Add a new note](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#add-a-new-note)
 - [Read a selected note](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#read-a-selected-note)
 - [Remove a selected note](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#remove-a-selected-note)
