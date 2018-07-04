@@ -27,13 +27,13 @@ There is a list of modules and their versions:
 
 #### Available commands:
 - [Help](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/tree/master/#help-message-with-hints-about-usage-the-programm)
-- [Add a new note](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#add-a-new-note)
-- [Read a selected note](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#read-a-selected-note)
-- [Remove a selected note](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#remove-a-selected-note)
-- [Sort notes](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#sort-notes)
-- [Import notes from an Excel file](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#import-notes-from-an-excel-file)
-- [Export notes to an Excel file](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#export-notes-to-an-excel-file)
-- [Update note](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#update-note)
+- [Add a new note](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/tree/master/#add-a-new-note)
+- [Remove a note](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/tree/master/#remove-a-note)
+- [Read a note](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/tree/master/#read-a-note)
+- [Show list of all notes](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/tree/master/#show-list-of-all-notes)
+- [Clear list of notes](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/tree/master/#clear-list-of-notes)
+- [Update a note by title](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/tree/master/#update-a-note-by-title)
+- [Sort list of notes](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/tree/master/#sort-list-of-notes)
 
 ### help message with hints about usage the programm
 
