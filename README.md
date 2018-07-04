@@ -25,6 +25,10 @@ There is a list of modules and their versions:
 
 ## Usage
 
+### help message with hints about usage the programm
+
+#### $ node index.js --help
+
 ### add a new note
 
 #### $ node index.js add --title 'Title of note' --body 'Body of note'
@@ -79,5 +83,15 @@ Command [sort] allowes to sort all notes by `kind of sort` with ascending or des
 
 ### write all notes to excel file 
 
+#### $ node index.js writeExcel --file 'Path to result file'
+
+Write excel.xlsx file with all notes from todo_app_advanced list.
+
 ### read notes from excel file and add them into todo_app's list
+
+#### $ node index.js readExcel --file 'Path to result file'
+
+Read all notes from excel file and add them into todo_app_advanced list.<br>
+If there is a note with the same title in the list, the application ignores it.
+
 
