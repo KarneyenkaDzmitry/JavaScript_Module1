@@ -26,13 +26,26 @@ There is a list of modules and their versions:
 
 ## Workflow
 
-### add new note
+### add a new note
 
 #### $ node add --title 'Title of note' --body 'Body of note'
 
 Command [add] creates new note with title [Title of note] and a body [Body of note].<br>
 Also the programm add current(created) date and time as a property date to each note.
 
+### remove a note
+
+#### $ node remove --title 'Title of note'
+
+Command [remove] remove a note with title [Title of note] if it es on the list and write on console about success of operation.<br>
+If there isn't a note with title [Title of note] the program write a message on console about that. 
+
+### add a new note
+
+#### $ node add --title 'Title of note' --body 'Body of note'
+
+Command [add] creates new note with title [Title of note] and a body [Body of note].<br>
+Also the programm add current(created) date and time as a property date to each note.
 
 
 
