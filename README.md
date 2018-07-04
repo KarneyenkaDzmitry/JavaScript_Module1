@@ -25,6 +25,16 @@ There is a list of modules and their versions:
 
 ## Usage
 
+#### Available commands:
+- [Help](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#help-message-with-hints-about-usage-the-programm)
+- [Add a new note](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#add-a-new-note)
+- [Read a selected note](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#read-a-selected-note)
+- [Remove a selected note](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#remove-a-selected-note)
+- [Sort notes](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#sort-notes)
+- [Import notes from an Excel file](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#import-notes-from-an-excel-file)
+- [Export notes to an Excel file](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#export-notes-to-an-excel-file)
+- [Update note](https://github.com/KarneyenkaDzmitry/JavaScript_Module1/edit/master/README.md#update-note)
+
 ### help message with hints about usage the programm
 
 #### $ node index.js --help
