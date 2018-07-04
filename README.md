@@ -1,4 +1,3 @@
- 
 # todo_app_advanced
 
 The application helps to make a todo list with notes.<br>
@@ -25,7 +24,7 @@ There is a list of modules and their versions:
 * excel4node version  ^1.3.6
 
 ## Workflow
-
+* [remove a note](./remove a note)
 ### add a new note
 
 #### $ node index.js add --title 'Title of note' --body 'Body of note'
